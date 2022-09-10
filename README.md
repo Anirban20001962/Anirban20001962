@@ -40,4 +40,17 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirban20001962&" alt="anirban20001962" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
+<div align=center>
+
+  <br><br>
+
+  ## Just tryingg to be consistent here, so that the snake would get more to eat 🐍 </h2>
+
+  ![Anribans's snake gif](https://github.com/Anirban20001962/Anirban20001962/blob/output/github-contribution-grid-snake.gif)
+
+  <br>
+
+  [![Anirbans's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anirban20001962&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
