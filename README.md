@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div> 
+
 <h1 align="center">Hi 👋, I'm Anirban Mukherjee</h1>
 <h3 align="center">I am Intern @ Virtusa | Web Developer | Software Engineer | CP | ML Enthusiast | Solving Problems with Technology</h3>
 
