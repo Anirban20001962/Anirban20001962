@@ -9,7 +9,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=anirban20001962" />
 </div>
 
-- 🔭 I’m currently working at **Virtusa**
+- 🔭 I’m currently working at **Qualcomm**
 - 🌱 I’m currently learning **Spring boot, Angular**
 - 👯 I’m looking to collaborate on **React JS**
 - 🤝 I’m looking for help with **Competitive Coding, Angular**
