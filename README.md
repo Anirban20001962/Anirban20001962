@@ -2,7 +2,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 100%" />
 
   # Hi 👋, I'm Anirban Mukherjee
-  ### Intern @ Virtusa | Web Developer | Software Engineer | CP | ML Enthusiast | Solving Problems with Technology
+  ### Engineer @ Qualcomm | Web Developer | Software Engineer | CP | ML Enthusiast | Solving Problems with Technology
 
   <img src="https://komarev.com/ghpvc/?username=anirban20001962&label=Profile%20views&color=0e75b6&style=flat" />
   <br>
