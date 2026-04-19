@@ -18,12 +18,8 @@
 - 📫 How to reach me **anirbandhakuria@gmail.com**
 
 ### Connect with me:
-<div align="center">
-  <a href="https://linkedin.com/in/anirban-mukherjee-43075519a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://fb.com/anirban.mukherjee.98622"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/anirbandhakuria"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/lauralyons"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
-</div>
+### Connect with me:
+<a href="https://linkedin.com/in/anirban-mukherjee-43075519a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> | <a href="https://fb.com/anirban.mukherjee.98622"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a> | <a href="https://www.leetcode.com/anirbandhakuria"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a> | <a href="https://auth.geeksforgeeks.org/user/lauralyons"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
 
 ### Languages and Tools:
 <div align="center">
